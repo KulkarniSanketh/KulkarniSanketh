@@ -40,16 +40,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankethkulkarni&theme=tokyonight&show_icons=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sankethkulkarni&theme=tokyonight" width="47%" />
-</p>
 
 ---
 
 ### 🧠 Quote I Live By
 
-> "Strive for progress, not perfection." — Unknown
+> "Strive for progress, not perfection." — A Legend
 
 ---
 
