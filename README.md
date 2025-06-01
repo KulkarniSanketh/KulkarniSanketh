@@ -36,12 +36,7 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,bootstrap,java,python,c,git,linux,mysql,firebase,figma" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-
----
 
 ### 🧠 Quote I Live By
 
