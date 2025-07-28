@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **Shree Sanketh Kulkarni**
 
-🎯 *Frontend Developer | Problem Solver | Tech Explorer*
+🎯 *Web developer | Problem Solver | Tech Explorer*
 
 🌍 India &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Building UI magic &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ React | Node.js | MongoDB
 
