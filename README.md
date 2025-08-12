@@ -9,6 +9,10 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://sankethkulkarni.netlify.app)  
 [![Email](https://img.shields.io/badge/📩_Email-Me-red?style=for-the-badge)](mailto:shreesankethk@gmail.com)
 
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things)
+
 </div>
 
 ---
@@ -35,6 +39,19 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,bootstrap,java,python,c,git,linux,mysql,firebase,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreesanket&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreesanket&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreesanket&bg_color=1a1b27&color=36BCF7&line=00E676&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
