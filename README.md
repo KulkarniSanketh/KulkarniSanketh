@@ -11,7 +11,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ECEEDF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things)
 
 </div>
 
